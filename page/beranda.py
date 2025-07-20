@@ -100,6 +100,7 @@ def tampil():
     """, unsafe_allow_html=True)
     st.markdown("""
         <div class="custom-paragraph">
+            Calculator of Standaritation adalah web online gratis yang dirancang untuk memudahkan pengguna dalam menghitung konsentrasi larutan standar titrimetri.
             Tujuan dari pembuatan aplikasi ini adalah untuk memudahkan mahasiswa, analis, atau siapa 
             saja yang bekerja di laboratorium dalam melakukan perhitungan dengan cepat, mudah, dan akurat. 
             Dengan adanya aplikasi ini, pengguna hanya perlu memasukkan data seperti massa zat, faktor 
@@ -134,16 +135,6 @@ def tampil():
                     <li>Kalkulator Standarisasi</li>
                 </io>
             </div>
-        </div>
-    """, unsafe_allow_html=True)
-
-    st.markdown("""
-        <div style="height: 3px; background-color: rgba(255, 255, 255, 0.1); margin-top: 10px; margin-bottom: 20px;"></div>
-    """, unsafe_allow_html=True)
-
-    st.markdown("""
-        <div class="custom-paragraph">
-            Calculator of Standaritation adalah web online gratis yang dirancang untuk memudahkan pengguna dalam menghitung konsentrasi larutan standar titrimetri.
         </div>
     """, unsafe_allow_html=True)
 
