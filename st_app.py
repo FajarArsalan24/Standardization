@@ -43,10 +43,13 @@ st.sidebar.markdown("""
         </ol>
     </div>
 """, unsafe_allow_html=True)
-
 st.sidebar.markdown("""
-    <div>
+    <div style="height: 3px; background-color: rgba(255, 255, 255, 0.15); margin-top: 0px; margin-bottom: 20px;"></div>
+    """, unsafe_allow_html=True)
+st.sidebar.markdown("""
+    <div class="sidebar">
         <h3>Referensi</h3>
+        <span><b>HERAWATI</b>.(2025).Penuntun Praktik analisis Titrimetri.Polliteknik AKA Bogor. Bogor</span>
     </div>
 """, unsafe_allow_html=True)
 
