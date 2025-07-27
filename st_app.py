@@ -49,7 +49,7 @@ st.sidebar.markdown("""
 st.sidebar.markdown("""
     <div class="sidebar">
         <h4>Referensi</h4>
-        <span style="font-size: 10px;"><b>HERAWATI</b>.(2025).Penuntun Praktik analisis Titrimetri.Polliteknik AKA Bogor. Bogor</span>
+        <span style="font-size: 12px;"><b>HERAWATI</b>.(2025).Penuntun Praktik analisis Titrimetri.Polliteknik AKA Bogor. Bogor</span>
     </div>
 """, unsafe_allow_html=True)
 
