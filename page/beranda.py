@@ -25,8 +25,7 @@ def tampil():
             <i><b>HARAP GANTI TEMA KE MODE GELAP (DARK)</b></i>
         </div>
     """, unsafe_allow_html=True)
-    tombol = st.button("📓 Cara Mengaktifkan Mode Gelap (Dark Mode)")
-    if tombol():
+    if st.button("📓 Cara Mengaktifkan Mode Gelap (Dark Mode)"):
         st.markdown("""
         <div style="border: 2px solid #555; border-radius: 10px; padding: 15px; background-color: rgba(0, 0, 0, 0.2); color: #c8dee8;">
             <h4>Cara Mengubah Tema ke Mode Gelap:</h4>
