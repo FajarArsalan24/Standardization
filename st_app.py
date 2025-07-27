@@ -48,8 +48,8 @@ st.sidebar.markdown("""
     """, unsafe_allow_html=True)
 st.sidebar.markdown("""
     <div class="sidebar">
-        <h6>Referensi</h6>
-        <p style="font-size: 15px;"><b>HERAWATI</b>.(2025).Penuntun Praktik analisis Titrimetri.Polliteknik AKA Bogor. Bogor</p>
+        <h4>Referensi</h4>
+        <span style="font-size: 15px;"><b>HERAWATI</b>.(2025).Penuntun Praktik analisis Titrimetri.Polliteknik AKA Bogor. Bogor</span>
     </div>
 """, unsafe_allow_html=True)
 
