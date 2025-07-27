@@ -44,7 +44,7 @@ st.sidebar.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-st.markdown("""
+st.sidebar.markdown("""
     <div>
         <h3>Referensi</h3>
     </div>
